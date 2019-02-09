@@ -1,4 +1,15 @@
----
-title: "My-coding-journey"
-date: 2019-02-08
----
+
+author: Kazeem Tijani
+email: ktijani@my.apsu.edu
+description: > # this means to ignore newlines until "baseurl:"
+  "Welcome to my page, this is my coding lab, where I get my hands dirty with code
+  I am optimistic that I would not retire until I acquire what I desire. I hope to stay motivated and 
+  continue trying until I achieve the best I am made of".
+
+# social links
+twitter_username: tijani_kazeem1
+github_username:  Tkprudent
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
